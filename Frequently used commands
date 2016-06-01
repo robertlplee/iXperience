@@ -1,0 +1,26 @@
+Commands:
+
+cat <file> 
+	-> lists text in file
+
+subl me.txt
+	-> makes a new sublime file called "me.txt"
+
+
+
+Git commands:
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf 
+
+git add <file>
+	-> add file to stage
+
+git commit -m"<description of change>
+	-> commit files to local repository
+
+git push
+	-> push files to remote repository
+
+git status 
+	-> check files to be committed
+		-> red is not added to stage
+		-> green is ready to be committed
